@@ -458,7 +458,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tNvWQjrz4uSqsSUfMc6U" name="C-Class Box">
-    <mxGraphModel dx="1503" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,8 +596,8 @@
         <mxCell id="GaCiV82xc_3lhpKs_9rx-33" edge="1" parent="1" source="GaCiV82xc_3lhpKs_9rx-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="GaCiV82xc_3lhpKs_9rx-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaCiV82xc_3lhpKs_9rx-34" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Enter &lt;b&gt;Notes&lt;/b&gt;&amp;nbsp;&amp;amp; &lt;b&gt;Box weight&lt;/b&gt; of C-class box" vertex="1">
-          <mxGeometry height="70" width="139.44" x="313.27" y="545" as="geometry" />
+        <mxCell id="GaCiV82xc_3lhpKs_9rx-34" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Enter &lt;b&gt;Notes, Amount of Collars&lt;/b&gt;&amp;nbsp;&amp;amp; &lt;b&gt;Box weight&lt;/b&gt; of C-class box" vertex="1">
+          <mxGeometry height="70" width="176.73" x="294.63" y="547" as="geometry" />
         </mxCell>
         <mxCell id="GaCiV82xc_3lhpKs_9rx-35" edge="1" parent="1" source="GaCiV82xc_3lhpKs_9rx-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="GaCiV82xc_3lhpKs_9rx-34" value="">
           <mxGeometry relative="1" as="geometry" />
